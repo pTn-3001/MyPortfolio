@@ -1,0 +1,31 @@
+# Build and cache outputs
+.next/
+out/
+build/
+dist/
+
+# Dependencies
+node_modules/
+
+# Static binary assets & large media
+public/assets/images/
+public/assets/cv/
+public/assets/favicon.png
+public/assets/profile_photo.jpg
+public/assets/resume.pdf
+public/favicon.png
+
+# Lock files and package caches
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Environment and system files
+.env*
+.DS_Store
+Thumbs.db
+*.log
+
+# Antigravity artifacts and scratch logs
+.system_generated/
+scratch/
