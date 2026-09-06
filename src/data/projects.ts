@@ -43,8 +43,7 @@ export const projectsData: ProjectItem[] = [
     desc: "A VoIP PBX system built with Asterisk, featuring SIP/IAX2 trunking, custom dialplan routing, automated IVR call navigation, voicemail services, and time-based call management.",
     tech: ["Asterisk", "VoIP", "Zoiper", "VMWare"],
     github: "https://github.com/pTn-3001/Asterisk-VoIP.git",
-    video:
-      "https://drive.google.com/drive/folders/1v5GGhRmg8jGx0TWJ81MqdwDOIm7IGLrD?usp=sharing",
+    video: "https://youtu.be/trUYVGyFeLY",
     thumbnailSrc: "/assets/projects/voip.jpg",
     highlights: [
       "Interactive Voice Response (IVR) & Custom Audio Prompts",
