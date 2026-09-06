@@ -4,7 +4,7 @@ export const aboutData: AboutData = {
   role: "BACKEND DEVELOPER / DEVOPS & SYSTEM ENGINEER",
   fullName: "Phan Trung Nguyên",
   bio: "Final-year Computer Networks student with a strong passion for Backend Development and DevOps Engineering. Currently building a real-time virtual IT lab platform for my graduation thesis - focusing on scalable backend design, cloud infrastructure, and deployment automation.",
-  avatarSrc: "/assets/profile_photo.jpg",
+  avatarSrc: "/assets/profile_photo.webp",
   details: {
     birthDate: "30/01/2004",
     nationality: "Vietnamese",

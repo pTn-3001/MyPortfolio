@@ -6,6 +6,7 @@ import CosmicLayers from "@/components/CosmicLayers";
 import FloatingIsland from "@/components/FloatingIsland";
 import NavigationHUD from "@/components/NavigationHUD";
 import SectionModal from "@/components/SectionModal";
+import SciFiPreloader from "@/components/SciFiPreloader";
 import { ItemConfig } from "@/types";
 
 export default function Home() {
@@ -95,6 +96,9 @@ export default function Home() {
 
       {/* Layer 6: Sci-Fi Section Detail Modal Popup */}
       <SectionModal activeItem={activeItem} onClose={handleCloseModal} />
+
+      {/* Layer 7: Sci-Fi Telemetry Asset Preloader */}
+      <SciFiPreloader />
     </main>
   );
 }

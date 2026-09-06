@@ -103,7 +103,7 @@ export default function EarthSatelliteOrbit({
             }}
           >
             <Image
-              src="/assets/images/satelline.png"
+              src="/assets/images/satelline.webp"
               alt="Orbital Satellite Ground Uplink"
               fill
               sizes="(max-width: 768px) 155px, 210px"

@@ -282,7 +282,7 @@ export default function FloatingIsland({
           {/* Layer 3: Island Base Graphic */}
           <div className="relative h-full w-full select-none">
             <Image
-              src="/assets/images/island.png"
+              src="/assets/images/island.webp"
               alt="Isometric Space Island"
               fill
               priority

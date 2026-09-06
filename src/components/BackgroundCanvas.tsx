@@ -23,7 +23,7 @@ export default function BackgroundCanvas() {
 
     let animationFrameId: number;
     const meteorImg = new Image();
-    meteorImg.src = "/assets/images/meteor.png";
+    meteorImg.src = "/assets/images/meteor.webp";
 
     const meteors: MeteorParticle[] = [];
     let lastSpawnTime = 0;

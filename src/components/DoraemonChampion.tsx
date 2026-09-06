@@ -80,7 +80,7 @@ export default function DoraemonChampion({
         }}
       >
         <Image
-          src="/assets/images/doraemon.png"
+          src="/assets/images/doraemon.webp"
           alt="Doraemon Explorer"
           fill
           sizes="(max-width: 768px) 80px, 140px"

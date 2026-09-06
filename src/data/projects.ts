@@ -15,7 +15,7 @@ export const projectsData: ProjectItem[] = [
     ],
     github: "https://github.com/pTn-3001/Lab-as-a-Service.git",
     video: "https://youtu.be/U2W9UBZ9fuo",
-    thumbnailSrc: "/assets/projects/laas.png",
+    thumbnailSrc: "/assets/projects/laas.webp",
     highlights: [
       "Microservices Architecture & API Gateway",
       "Multi-Portal Nx Monorepo Management",
@@ -44,7 +44,7 @@ export const projectsData: ProjectItem[] = [
     tech: ["Asterisk", "VoIP", "Zoiper", "VMWare"],
     github: "https://github.com/pTn-3001/Asterisk-VoIP.git",
     video: "https://youtu.be/trUYVGyFeLY",
-    thumbnailSrc: "/assets/projects/voip.jpg",
+    thumbnailSrc: "/assets/projects/voip.webp",
     highlights: [
       "Interactive Voice Response (IVR) & Custom Audio Prompts",
       "Time-Based Call Routing & Exception Handling",

@@ -53,9 +53,13 @@ export default function RootLayout({
   return (
     <html
       lang="en"
+      suppressHydrationWarning
       className={`${orbitron.variable} ${rajdhani.variable} ${jetbrainsMono.variable}`}
     >
-      <body className="select-none overflow-hidden bg-[#050b14] text-[#e2f1fd] antialiased">
+      <body
+        suppressHydrationWarning
+        className="select-none overflow-hidden bg-[#050b14] text-[#e2f1fd] antialiased"
+      >
         {children}
       </body>
     </html>

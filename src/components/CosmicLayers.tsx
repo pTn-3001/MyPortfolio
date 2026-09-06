@@ -30,7 +30,7 @@ export default function CosmicLayers({ mouseOffset }: CosmicLayersProps) {
         }}
       >
         <Image
-          src="/assets/images/space.png"
+          src="/assets/images/space.webp"
           alt="Deep Space Universe"
           fill
           priority
@@ -51,7 +51,7 @@ export default function CosmicLayers({ mouseOffset }: CosmicLayersProps) {
       >
         <div className="drop-shadow(0 0 15px rgba(0, 242, 254, 0.4)) drop-shadow(0 0 30px rgba(0, 150, 255, 0.2)) relative h-full w-full animate-float-slow filter">
           <Image
-            src="/assets/images/orbital_station.png"
+            src="/assets/images/orbital_station.webp"
             alt="Orbital Station Base"
             fill
             sizes="(max-width: 768px) 130px, 240px"
